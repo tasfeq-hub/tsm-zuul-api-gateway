@@ -2,7 +2,7 @@ package com.tasfeq.microservices.netflixzuulapigatewayserver;
 
 import javax.servlet.http.HttpServletRequest;
 
-import org.apache.logging.log4j.Logger;
+import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
 
